@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Calcaneus Morphometry — Machine Learning Dashboard"
+version: v1.0.0.1
+date-released: 2026-10-03
+doi: 10.5281/zenodo.23112831
+url: "https://github.com/ckrmustafa/calcaneus-shiny-dashboard"
+license: MIT
+authors:
+  - family-names: Çakır
+    given-names: Mustafa
+    orcid: "https://orcid.org/0000-0002-1794-9242"
+    affiliation: "İskenderun Technical University, İskenderun, Türkiye"
+  - family-names: Kaştan
+    given-names: Özlem
+    orcid: "https://orcid.org/0000-0003-4427-7442"
+    affiliation: "Akdeniz University, Department of Medical Services and Techniques, Antalya, Türkiye"
+  - family-names: Oral
+    given-names: Okan
+    orcid: "https://orcid.org/0000-0002-6302-4574"
+    affiliation: "Akdeniz University, Department of Mechanical Engineering, Antalya, Türkiye"
+abstract: >-
+  Publication-grade R/Shiny pipeline for classifying calcaneal clinical
+  findings (Haglund deformity, heel spur, Achilles tendon pathology) from
+  morphometric measurements (Gissane angle, Böhler angle, age, sex), with
+  leakage-free preprocessing, SMOTE/ROSE balancing, overfitting
+  quantification, a correlation module and 600-DPI journal-ready exports.
+keywords:
+  - calcaneus
+  - machine learning
+  - R Shiny
+  - morphometry
+  - orthopedics
+repository-code: "https://github.com/ckrmustafa/calcaneus-shiny-dashboard"
