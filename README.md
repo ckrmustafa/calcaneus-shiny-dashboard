@@ -88,7 +88,7 @@ archived code:
 
 > Çakır M, Kaştan Ö, Oral O. Calcaneus morphometry and a reproducible
 > machine-learning pipeline (manuscript, 2026). Code archived on Zenodo:
-> [Zenodo DOI to be inserted upon deposit].
+> [https://doi.org/10.5281/zenodo.23112831].
 
 ## License
 
