@@ -97,6 +97,3 @@ This project is released under the MIT License (see `LICENSE`).
 ## Authors
 
 - Mustafa Çakır — İskenderun Technical University
-- Özlem Kaştan (corresponding) — Akdeniz University, Department of Medical
-  Services and Techniques
-- Okan Oral — Akdeniz University, Department of Mechanical Engineering
